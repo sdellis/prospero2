@@ -7,6 +7,6 @@ api.use(logger('dev'));
 api.use(bodyParser.json());
 
 require('./books/routes')(api);
-require('./colors/routes')(api);
+require('./images/routes')(api);
 
 module.exports = api;

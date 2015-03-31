@@ -20,7 +20,7 @@ npm install -g gulp
 gulp
 ```
 
-Once that's done, open up http://localhost:9000/ in your browser.
+Once that's done, open up http://localhost:9000/ in your browser.  This is currently meant to be used in conjunction with [Manifesto](http://github.com/sdellis/manifesto), although the two will be decoupled completely in the near future.
 
 ## Guide
 
